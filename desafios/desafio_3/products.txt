@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "car",
+    "price": 345.67,
+    "thumbnail": "a pic of product"
+  },
+  {
+    "id": 2,
+    "title": "bicycle",
+    "price": 234.56,
+    "thumbnail": "a pic of product"
+  },
+  {
+    "id": 3,
+    "title": "motorcycle",
+    "price": 123.45,
+    "thumbnail": "a pic of product"
+  }
+]
