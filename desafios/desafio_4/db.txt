@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "car",
+    "price": 345.67,
+    "thumbnail": "a pic of product"
+  },
+  {
+    "id": 2,
+    "title": "bicycle",
+    "price": 234.56,
+    "thumbnail": "a pic of product"
+  },
+  {
+    "id": 3,
+    "title": "boat",
+    "price": 250.78,
+    "thumbnail": "a pic of product"
+  },
+  {
+    "id": 4,
+    "title": "motorcycle",
+    "price": 123.45,
+    "thumbnail": "a pic of product"
+  },
+  {
+    "id": 5,
+    "title": "carrito actualizado",
+    "price": 350.67,
+    "thumbnail": "a pic of product"
+  },
+  {
+    "id": 6,
+    "title": "jetsky",
+    "price": 360,
+    "thumbnail": "a pic of product"
+  }
+]
